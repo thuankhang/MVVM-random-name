@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Live Data</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="activity_title">Random English Name</string>
+    <string name="button_male">Male</string>
+    <string name="button_female">Female</string>
+    <string name="textView_random">Or random number</string>
+    <string name="button_random">Random</string>
+    <string name="button_check">Check</string>
+    <string name="textView_inputNum">Input a number in range 1 to 20</string>
+    <string name="hide_or_show">Hide/Show Fragment</string>
+
+
+</resources>
